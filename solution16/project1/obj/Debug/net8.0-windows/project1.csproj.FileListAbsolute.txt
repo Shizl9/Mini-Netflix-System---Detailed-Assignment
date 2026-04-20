@@ -1,0 +1,17 @@
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\bin\Debug\net8.0-windows\project1.exe
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\bin\Debug\net8.0-windows\project1.deps.json
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\bin\Debug\net8.0-windows\project1.runtimeconfig.json
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\bin\Debug\net8.0-windows\project1.dll
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\bin\Debug\net8.0-windows\project1.pdb
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.Form1.resources
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.csproj.GenerateResource.cache
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.AssemblyInfoInputs.cache
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.AssemblyInfo.cs
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.csproj.CoreCompileInputs.cache
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.sourcelink.json
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.dll
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\refint\project1.dll
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.pdb
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\project1.genruntimeconfig.cache
+C:\Users\sheik\OneDrive - Higher College of Technology Muscat\Documents\solution-swq\solution16\project1\obj\Debug\net8.0-windows\ref\project1.dll

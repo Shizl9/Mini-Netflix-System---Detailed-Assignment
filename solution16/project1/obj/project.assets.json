@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\project1\\project1.csproj",
-      "projectName": "project1",
-      "projectPath": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\project1\\project1.csproj",
+      "projectUniqueName": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\project1\\MiniNetflixWin.csproj",
+      "projectName": "MiniNetflixWin",
+      "projectPath": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\project1\\MiniNetflixWin.csproj",
       "packagesPath": "C:\\Users\\sheik\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\project1\\obj\\",
       "projectStyle": "PackageReference",
