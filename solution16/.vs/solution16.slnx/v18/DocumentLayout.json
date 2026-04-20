@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA063EE-D27F-4236-BFEC-F3830FDBA0DE}|project1\\project1.csproj|c:\\users\\sheik\\onedrive - higher college of technology muscat\\documents\\solution-swq\\solution16\\project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DA063EE-D27F-4236-BFEC-F3830FDBA0DE}|project1\\project1.csproj|solutionrelative:project1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\project1\\Form1.cs",
+              "RelativeDocumentMoniker": "project1\\Form1.cs",
+              "ToolTip": "C:\\Users\\sheik\\OneDrive - Higher College of Technology Muscat\\Documents\\solution-swq\\solution16\\project1\\Form1.cs [Design]",
+              "RelativeToolTip": "project1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:24:57.869Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
